@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="Desktop Version" title="enver" src="https://i.imgur.com/MmyfjMZ.png" />
-    <img alt="Mobile Version" title="enver" src="https://i.imgur.com/1agQs2j.png" />
+    <img alt="Mobile Version" width="500" title="enver" src="https://i.imgur.com/1agQs2j.png" />
 </h1>
 
 <br>
@@ -38,7 +38,8 @@ The app will be available for access on your browser at http://localhost:3000
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
-Used this template to development: [Figma](<https://www.figma.com/file/lOJDpQXKXmSKGQ1sjbsQRh/Digital-Agency-Website---Freebie-(Community)?node-id=2%3A472>)
+
+Used this template to development: [Figma](https://www.figma.com/file/lOJDpQXKXmSKGQ1sjbsQRh/Digital-Agency-Website---Freebie-(Community)?node-id=2%3A472).
 
 ---
 
