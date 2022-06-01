@@ -1,0 +1,61 @@
+{
+  "name": "kowind",
+  "version": "1.0.2",
+  "description": "A react start template with Typescript, ESLint, Prettier, TailwindCSS. (using VitaWind 2) ",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.4.0",
+    "vitawind": "^2.0.0"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "tailwindcss",
+    "vitawind",
+    "boilerplate",
+    "starter",
+    "template",
+    "react-template",
+    "react-start",
+    "react-start-template",
+    "react-start-boilerplate",
+    "kowind",
+    "create-kowind",
+    "kowind-template",
+    "kowind-boilerplate",
+    "kowind-starter",
+    "kowind-react-template",
+    "kowind-react"
+  ],
+  "devDependencies": {
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@typescript-eslint/eslint-plugin": "^5.27.0",
+    "@typescript-eslint/parser": "^5.27.0",
+    "@vitejs/plugin-react": "^1.0.7",
+    "eslint": "^8.16.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-import-helpers": "^1.2.1",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.30.0",
+    "prettier": "^2.5.1",
+    "prettier-plugin-tailwindcss": "^0.1.5",
+    "typescript": "^4.4.4",
+    "vite": "^2.7.2"
+  },
+  "icon": "./kowind.svg",
+  "repository": "https://github.com/kayooliveira/kowind",
+  "author": "Kayo Oliveira <g.kayooliveira123@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
