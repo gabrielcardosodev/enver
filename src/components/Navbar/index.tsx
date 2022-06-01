@@ -5,7 +5,7 @@ import { MdOutlineSort } from 'react-icons/md'
 import logoImg from '../../assets/img/logo.svg'
 
 export function Navbar() {
-  const [isOpen, setIsOpen] = useState(true)
+  const [isOpen, setIsOpen] = useState(false)
 
   return (
     <div className="flex w-full items-center justify-between pt-10">
