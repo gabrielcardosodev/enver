@@ -40,7 +40,7 @@ export function Projects() {
         </div>
 
         <div className="mt-12 flex items-center justify-center gap-5">
-          <button className="flex h-8 w-8 items-center justify-center rounded-full bg-white bg-opacity-20 text-white hover:bg-blue-500">
+          <button className="flex h-8 w-8 items-center justify-center rounded-full bg-white bg-opacity-20 text-white transition-all hover:bg-blue-500">
             <IoIosArrowBack size={21} />
           </button>
 
